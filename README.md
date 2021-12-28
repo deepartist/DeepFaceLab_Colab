@@ -4,6 +4,6 @@
 ## Main functions
 * <b>Convient install functions, workspace management, simple script ussage, advanced training  <b>
 * <b>Backup function via rasync & cronjobs or just keep model files on gdrive <b>
-* <b>Modify training configs - exclusively on the <a href="https://github.com/MachineEditor/DeepFaceLab">Machine Editor DFL branch</a>  <b>
+* <b>Modify training configs - exclusively for the <a href="https://github.com/MachineEditor/DeepFaceLab">Machine Editor DFL branch</a>  <b>
 
 This is based on [DFL-Colab](https://github.com/chervonij/DFL-Colab), [DeepFaceLab-Linux](https://github.com/nagadit/DeepFaceLab_Linux)
